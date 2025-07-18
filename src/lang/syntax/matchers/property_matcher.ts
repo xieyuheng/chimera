@@ -1,4 +1,4 @@
-import * as pt from "@cicada-lang/partech"
+import * as pt from "@xieyuheng/partech"
 import type { Exp } from "../../exp/index.ts"
 import * as Exps from "../../exp/index.ts"
 import * as matchers from "./index.ts"

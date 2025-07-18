@@ -1,4 +1,4 @@
-import * as pt from "@cicada-lang/partech"
+import * as pt from "@xieyuheng/partech"
 import type { GoalExp } from "../../goal-exp/index.ts"
 import * as GoalExps from "../../goal-exp/index.ts"
 import * as matchers from "./index.ts"

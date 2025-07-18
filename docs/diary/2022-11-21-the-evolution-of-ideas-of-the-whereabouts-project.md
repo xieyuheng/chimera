@@ -18,16 +18,16 @@ Then I saw an interesting implementation of "programming by rewriting"
 I want to implement it, because it can be used to implement
 nanopass compiler framework and computer algebra system.
 
-Meaning while I have already planned to add data constructor to `cicada-lang/whereabouts`,
-a language of "programming by rewriting" can reuse the expressions of `cicada-lang/whereabouts`.
+Meaning while I have already planned to add data constructor to `xieyuheng/whereabouts`,
+a language of "programming by rewriting" can reuse the expressions of `xieyuheng/whereabouts`.
 
-Thus I decided to add "programming by rewriting" to `cicada-lang/whereabouts`.
+Thus I decided to add "programming by rewriting" to `xieyuheng/whereabouts`.
 
 I observed that, for me,
 the main idea about choosing project topic
 is to make my code more valuable i.e. more useful.
 
-How to make `cicada-lang/whereabouts` even more valuable?
+How to make `xieyuheng/whereabouts` even more valuable?
 
 If I can use it as a database for Web App backend,
 it will be very useful to me.

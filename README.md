@@ -7,7 +7,7 @@
 Install it by the following command:
 
 ```sh
-npm install -g @cicada-lang/chimera
+npm install -g @xieyuheng/chimera
 ```
 
 The command-line program is called `chimera`.

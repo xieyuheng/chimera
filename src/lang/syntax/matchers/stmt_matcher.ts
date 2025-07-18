@@ -1,4 +1,4 @@
-import * as pt from "@cicada-lang/partech"
+import * as pt from "@xieyuheng/partech"
 import * as Exps from "../../exp/index.ts"
 import type { Stmt } from "../../stmt/index.ts"
 import * as Stmts from "../../stmt/index.ts"

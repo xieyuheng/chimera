@@ -1,4 +1,4 @@
-import * as pt from "@cicada-lang/partech"
+import * as pt from "@xieyuheng/partech"
 
 // NOTE Preserve keywords for JSON.
 
