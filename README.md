@@ -37,16 +37,6 @@ for your book ["The Reasoned Schemer"](https://mitpress.mit.edu/9780262535519/th
 Thank you, [Bharathi Ramana Joshi](https://bharathi.xyz/) and [William E. Byrd](http://webyrd.net),
 for writing [a great tutorial](docs/papers/an-annotated-implementation-of-minikanren-with-constraints.pdf) about implementing constraint logic programming.
 
-## Contributions
-
-To make a contribution, fork this project and create a pull request.
-
-Please read the [STYLE-GUIDE.md](STYLE-GUIDE.md) before you change the code.
-
-Remember to add yourself to [AUTHORS](AUTHORS).
-Your line belongs to you, you can write a little
-introduction to yourself but not too long.
-
 ## License
 
 [GPLv3](LICENSE)
